@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BE.Controllers.R5EVENTSController",
+    "Method": "GetByWo",
+    "RelativePath": "api/v1/R5EVENTS/GetByWo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "WO_CODE",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
